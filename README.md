@@ -1,6 +1,6 @@
 # Counterfactual plans under distributional ambiguity
 
-This repo contains source-code of the "Counterfactual plans under distributional ambiguity" paper
+This repo contains the source-code of the "[Counterfactual plans under distributional ambiguity](https://arxiv.org/abs/2201.12487)" paper.
 
 ## Experiments
 
